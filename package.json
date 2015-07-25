@@ -1,0 +1,32 @@
+{
+  "name": "YATodolist",
+  "version": "1.0.0",
+  "description": "Yet another todolist",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "development": "webpack-dev-server --watch --progress --colors --host 0.0.0.0 --devtool '#eval-source-map'",
+    "production": "webpack -p --progress --colors",
+    "watch": "webpack --progress --colors --watch"
+  },
+  "author": "Jiefeng<j@pairyo.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "bootstrap": "^3.3.5",
+    "ejs": "^2.3.3",
+    "events": "^1.0.2",
+    "express": "^4.13.1",
+    "flux": "^2.0.3",
+    "fs": "0.0.2",
+    "immutable": "^3.7.4",
+    "jsx-loader": "^0.13.2",
+    "keymirror": "^0.1.1",
+    "moment": "^2.10.3",
+    "nedb": "^1.1.2",
+    "react": "^0.13.3",
+    "underscore": "^1.8.3",
+    "webpack": "^1.10.5",
+    "webpack-dev-server": "^1.10.1"
+  }
+}
