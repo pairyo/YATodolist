@@ -37,6 +37,7 @@ Everything you changed in asset files whill now automatically compiled. Hitting 
 
 ## Contributors
 **hophacker** (jiefeng.hopkins@gmail.com)
+**Tissue Fluid** (zuzhiyue@gmail.com)
 
 ## TODOS !!!!!
 Once this app started, you shall see all the todos for YATodolist I've listed there.
