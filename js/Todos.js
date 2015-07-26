@@ -119,7 +119,7 @@ module.exports = React.createClass({
             <td><Input ref='name' type='text' /></td>
             <td><Input ref='description' type='text' /></td>
             <td><Input ref='due_date' type='date' /></td>
-            <td><Button onClick={this.handleCreate} bsStyle='primary'>添加</Button></td>
+            <td><Button onClick={this.handleCreate} bsStyle='primary'>Add</Button></td>
             <td></td>
           </tr>
         </tbody>

@@ -20,11 +20,13 @@
     "flux": "^2.0.3",
     "fs": "0.0.2",
     "immutable": "^3.7.4",
+    "jquery": "^2.1.4",
     "jsx-loader": "^0.13.2",
     "keymirror": "^0.1.1",
     "moment": "^2.10.3",
     "nedb": "^1.1.2",
     "react": "^0.13.3",
+    "react-bootstrap": "^0.24.2",
     "underscore": "^1.8.3",
     "webpack": "^1.10.5",
     "webpack-dev-server": "^1.10.1"
